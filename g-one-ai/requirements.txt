@@ -1,0 +1,13 @@
+openai
+speechrecognition
+pyttsx3
+pyaudio
+python-dotenv
+fastapi
+uvicorn
+websockets
+rich
+pygame
+numpy
+requests
+beautifulsoup4
