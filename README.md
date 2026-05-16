@@ -1,28 +1,28 @@
 # G_One
 OS_Assistant
-# 🚀 G_One_AI
+#  G_One_AI
 
 <div align="center">
 
 
-### 🧠 Next-Generation Artificial Intelligence Platform
+###  Next-Generation Artificial Intelligence Platform
 
 </div>
 
 ---
 
-# 📌 Overview
+#  Overview
 
 **G_One_AI** is an advanced Artificial Intelligence platform focused on building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, and Data Analytics** technologies.
 
 The project is designed to provide scalable AI solutions for real-world applications including:
 
-- 🤖 AI Automation
-- 👁️ Computer Vision
-- 📊 Predictive Analytics
-- 🧠 Deep Learning Models
-- 🎥 Real-Time Recognition Systems
-- 💬 AI Assistants
+-  AI Automation
+-  Computer Vision
+-  Predictive Analytics
+-  Deep Learning Models
+-  Real-Time Recognition Systems
+-  AI Assistants
 
 ---
 
